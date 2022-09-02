@@ -1,5 +1,5 @@
 # Dashgo
-Repository created to save the Dashgo project develop during the React course on Rocketseat.
+Repository created to save the Dashgo project develop during the React/NextJs course on Rocketseat.
 
 ## Getting Started
 
